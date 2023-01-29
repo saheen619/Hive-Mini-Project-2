@@ -47,9 +47,9 @@ Note: Please ensure you make necessary optimizations to your queries like select
 
 Dataset Link : https://data.cityofnewyork.us/City-Government/Parking-Violations-Issued-Fiscal-Year-2017/2bnn-yakx     
 
-Size : 1.94 GB
-Columns : 43
-Rows : 10.8 Million
+Size : 1.94 GB  
+Columns : 43  
+Rows : 10.8 Million  
 Each Row is a Parking Violations Issued
 
 ## Tech Used
