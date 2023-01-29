@@ -16,7 +16,7 @@ New York City is a thriving metropolis and just like most other cities of simila
 In an attempt to scientifically analyse this phenomenon, the NYC Police Department regularly collects data related to parking tickets. This data is made available by NYC Open Data portal. We will try and perform some analysis on this data.
 
 Download Dataset - https://data.cityofnewyork.us/browse?q=parking+tickets
-Note: Consider only the year 2017 for analysis and not the Fiscal year.
+\n Note: Consider only the year 2017 for analysis and not the Fiscal year.
 
 Note: both files are csv files. 
 
