@@ -49,7 +49,7 @@ Dataset Link : https://data.cityofnewyork.us/City-Government/Parking-Violations-
 
 Size    : 1.94 GB  
 Columns : 43  
-Rows    : 10,803,028 rows / 10.8 Million 
+Rows    : 10,803,028 rows / 10.8 Million    
 Each Row is a Parking Violations Issued
 
 ## Tech Used
